@@ -34,7 +34,7 @@ $ cd ios/ && pod install
 
 > ~~⚠️ Bintray 지원 중단에 의해 jfrog로 수정되었습니다~~
 >
-> jgrog에서 repository로 변경되었습니다.  [공식문서](https://navermaps.github.io/android-map-sdk/guide-ko/1.html)
+> jfrog에서 repository로 변경되었습니다.  [공식문서](https://navermaps.github.io/android-map-sdk/guide-ko/1.html)
 
 ```
 allprojects {
